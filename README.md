@@ -1,0 +1,2 @@
+## PHÂN TÍCH DỮ LIỆU KINH DOANH RẠP CHIẾU PHIM
+Bộ dữ liệu cuộc thi cho trước về chủ để hoạt động của một công ty phát hành phim trong khoảng thời gian tháng 5 năm 2019, nhóm tiến hành phân tích và trực quan hóa dữ liệu bằng công cụ Power BI để đưa ra các thống kê, biểu đồ một cách chi tiết. Từ đó đưa ra các dự đoán cũng như quyết định quan trọng để góp phần vào hoạt động hỗ trợ, tư vấn cho doanh nghiệp doanh nghiệp.
